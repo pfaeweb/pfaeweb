@@ -1,4 +1,4 @@
-## bienvenido al perfil de GITHUB del 
+## Bienvenido al perfil de GITHUB del 
 # PFAE La Web de Tias 3.0
 
 Este PFAE (Plan de Formación en alternacia con el empleo), se basa en el certificado de profesionalidad nivel 2 de Confecctón y Publicación de Páginas web. Estamos en el municipio de Tías, Lanzarote. Islas Canarias. 
